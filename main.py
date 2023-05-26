@@ -1,3 +1,15 @@
+#Nome: João Pedro Lima Rodrigues
+#RM:99521
+#-Nome: Vinícius Neves Corrêa
+#RM:98392
+
+#Danilo Chichinato Yoshihara
+#RM:98736#
+
+#Daniel Neves França
+#rm550912
+
+
 print("Insira as toneladas colhidas por mês:")
 
 producao_total = 0
